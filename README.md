@@ -1,2 +1,1 @@
-# analisisdatapython
-Belajar Analisis Data Menggunakan Python
+# Belajar Analisis Data Menggunakan Python
