@@ -1,4 +1,16 @@
 # Belajar Analisis Data Menggunakan Python
+## Kemampuan Dasar
+1. Paham dasar-dasar statistik.
+2. Paham dasar-dasar visualisasi data.
+3. Tahu berbagai jenis diagram dalam visualisasi data dan kegunaannya.
+4. Tahu teknik-teknik buat bikin visualisasi data yang keren.
+5. Paham konsep dasar pemrograman pakai Python.
+6. Kenal berbagai sintaks dasar di bahasa pemrograman Python.
+7. Bisa pake Google Colab, Jupyter Notebook, atau Python IDE lainnya buat nulis dan jalanin kode Python.
+## Tools
+1. Jupyter Notebook
+2. Google Colaboratory
+3. Integrated Development Environment (IDE), contohnya PyCharm atau Visual Studio Anaconda
 ## 1. Dasar-Dasar Analisis Data
 1.1. Pengenalan Analisis Data 
 
@@ -90,5 +102,19 @@
 
 ## 8. Rangkuman
 ## 9. Proyek Akhir
-## Daftar Istilah
+## [Daftar Istilah](https://github.com/Haertanto/analisisdatapython/blob/main/Daftar%20Istilah.md)
 ## Referensi
+1. Domo, Inc. “[Data Never Sleeps 9.0](https://www.domo.com/learn/infographic/data-never-sleeps-9)”. Diakses pada: 30 Oktober 2022. 
+2. Google Career Certificates. (2021). [Foundations: Data, Data, Everywhere](https://www.coursera.org/learn/foundations-data?specialization=google-data-analytics). 
+3. Tim Stobierski. “[The Advantages of Data-Driven Decision-Making](https://online.hbs.edu/blog/post/data-driven-decision-making)”. online.hbs.edu. Diakses pada 10 Desember 2022
+4. Udacity. (2020). [Nanodegree Program Become a Data Analyst](https://www.udacity.com/course/data-analyst-nanodegree--nd002).
+5. Navlani, Avinash et al.  “[Python Data Analysis - Third Edition](https://learning.oreilly.com/library/view/python-data-analysis/9781789955248/)”. 2021. Diakses pada 12 Desember 2022
+6. CrowdFlower. “[2016 Data Science Report](https://www2.cs.uh.edu/~ceick/UDM/CFDS16.pdf)”. CrowdFlower. 2016. Diakses pada 15 Desember 2022)
+7. Google Career Certificates. (2021). [Prepare Data for Exploration](https://www.coursera.org/learn/data-preparation).
+8. IBM. “[What is data security?](https://www.ibm.com/id-en/topics/data-security)”. IBM. Diakses pada 20 Desember 2022
+9. McKinney, Wes. “[Python for Data Analysis, 3rd Edition](https://learning.oreilly.com/library/view/python-for-data/9781098104023/)”. 2022. Diakses pada 20 Desember 2022
+10. Knaflic, Cole Nussbaumer. “[Storytelling with Data: A Data Visualization Guide for Business Professionals](https://learning.oreilly.com/library/view/storytelling-with-data/9781119002253/)”. 2015. Diakses pada 10 January 2022
+11. Google Career Certificates. (2021). [Ask Questions to Make Data-Driven Decisions](https://www.coursera.org/learn/ask-questions-make-decisions).
+12. Tufte, Edward Rolf. “[The Visual Display of Quantitative Information](http://faculty.salisbury.edu/~jtanderson/teaching/cosc311/fa21/files/tufte.pdf)”. 2007. Diakses pada 2 Februari 2023
+13. Google Career Certificates. (2021). [Share Data Through the Art of Visualization](https://www.coursera.org/learn/visualize-data?specialization=google-data-analytics).
+14. Priddy, Sam. “[Best practices for building effective dashboards](https://www.tableau.com/blog/best-practices-for-building-effective-dashboards)”. Tableau. Diakses pada 25 Februari 2023
