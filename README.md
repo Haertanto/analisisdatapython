@@ -11,6 +11,7 @@
 1. Jupyter Notebook
 2. Google Colaboratory
 3. Integrated Development Environment (IDE), contohnya PyCharm atau Visual Studio Anaconda
+## [Daftar Istilah](https://github.com/Haertanto/analisisdatapython/blob/main/Daftar%20Istilah.md)
 ## 1. Dasar-Dasar Analisis Data
 1.1. Pengenalan Analisis Data 
 
@@ -102,7 +103,6 @@
 
 ## 8. Rangkuman
 ## 9. Proyek Akhir
-## [Daftar Istilah](https://github.com/Haertanto/analisisdatapython/blob/main/Daftar%20Istilah.md)
 ## Referensi
 1. Domo, Inc. “[Data Never Sleeps 9.0](https://www.domo.com/learn/infographic/data-never-sleeps-9)”. Diakses pada: 30 Oktober 2022. 
 2. Google Career Certificates. (2021). [Foundations: Data, Data, Everywhere](https://www.coursera.org/learn/foundations-data?specialization=google-data-analytics). 
